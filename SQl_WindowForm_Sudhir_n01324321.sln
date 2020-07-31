@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQl_WindowForm_Sudhir_n01324321", "SQl_WindowForm_Sudhir_n01324321.csproj", "{5815FE11-2D17-4C72-88C3-33981F04EBBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5815FE11-2D17-4C72-88C3-33981F04EBBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5815FE11-2D17-4C72-88C3-33981F04EBBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5815FE11-2D17-4C72-88C3-33981F04EBBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5815FE11-2D17-4C72-88C3-33981F04EBBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD2CF4F-DB36-419B-8527-2D1A2FA9B0C8}
+	EndGlobalSection
+EndGlobal
