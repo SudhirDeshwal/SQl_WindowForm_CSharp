@@ -186,6 +186,7 @@
             this.button1.TabIndex = 15;
             this.button1.Text = "Details By Name";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -209,7 +210,7 @@
             this.Controls.Add(this.btnInsert);
             this.Controls.Add(this.txtfirstname);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sudhir : n01324321";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
